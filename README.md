@@ -5,7 +5,7 @@
 
 - Aprimorando conhecimento em **SQL, Power BI, Excel, Python, DAX, Power Query, Linguagem R**
 
-- Você me acha através do e-mail **weismuller.santos@hotmail.com** ou whatsapp **81986305727**
+- Você me acha através do e-mail **weismuller.santos@hotmail.com** ou whatsapp **[https://wa.me/5581986305727](81986305727)**
 
 - Meu currículo [https://www.linkedin.com/in/weismuller/](https://www.linkedin.com/in/weismuller/)
 
