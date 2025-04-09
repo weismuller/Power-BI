@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Weismuller</h1>
-<h3 align="center">Análise de Dados | Power BI | SQL | Excel | Python |</h3>
+<h3 align="center">Análise de Dados | SQL | Power BI | Excel | Python |</h3>
 
 - Tornando-se um profissional em **Análise da Dados**
 
