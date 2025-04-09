@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Eu sou Weismuller</h1>
 <h3 align="center">Análise de Dados | Power BI | SQL | Excel | Python |</h3>
 
-- Atualmente aprendendo **Análise da Dados**
+- Tornando-se um profissional em **Análise da Dados**
 
-- Me pergunte sobre **SQL, Power BI, Excel, Python**
+- Aprimorando conhecimento em **SQL, Power BI, Excel, Python, DAX, Power Query, Linguagem R**
 
-- Você me acha através do e-mail **weismuller.santos@hotmail.com**
+- Você me acha através do e-mail **weismuller.santos@hotmail.com** ou whatsapp **81986305727**
 
 - Meu currículo [https://www.linkedin.com/in/weismuller/](https://www.linkedin.com/in/weismuller/)
 
